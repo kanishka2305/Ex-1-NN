@@ -1,5 +1,5 @@
-## NAME : KAnishka V S
-<H3>ENTER YOUR REGISTER NO.</H3> 212222230061
+## NAME : Kanishka V S
+## Register no: 212222230061
 <H3>EX. NO.1</H3>
 <H3>DATE</H3>
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
